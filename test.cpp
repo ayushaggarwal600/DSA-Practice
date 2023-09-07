@@ -2,16 +2,10 @@
 using namespace std;
 int main() 
 {
-    int a;
-    cout<<"Enter a : ";
-    if (cin>>a)
-    {
-        cout<<"hi"<<endl;
-    }
-    if (cout<<a<<endl)
-    {
-        cout<<"hi"<<endl;
-    }
-    
+    // long long a=5.78;
+    // cout<<sizeof(a)<<endl;
+    // cout<<addressof(a)<<endl;
+    // cout<<a;
+    int arr[2]={1,2};
     return 0;
 }
