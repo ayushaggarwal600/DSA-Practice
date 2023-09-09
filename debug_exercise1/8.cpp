@@ -38,6 +38,6 @@ void printPatt(int n){
 
 int main()
 {
-    printPatt(5);
+    printPatt(6);
     return 0;
 }
