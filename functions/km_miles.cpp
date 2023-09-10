@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
 
-float kmIntoMiles(int km){
-    return 1.62*km;
+float kmIntoMiles(float km){
+    return 0.62*km;
 }
 
 int main(){
-    int km;
+    float km;
     cout<<"Enter the kms : ";
     cin>>km;
     cout<<kmIntoMiles(km);
