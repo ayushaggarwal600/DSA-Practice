@@ -6,6 +6,7 @@ float kmIntoMiles(float km){
 }
 
 int main(){
+    // int arr[] = {5.7,6.6};
     float km;
     cout<<"Enter the kms : ";
     cin>>km;
