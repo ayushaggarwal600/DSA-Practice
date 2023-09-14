@@ -6,10 +6,10 @@ int main() {
     if (i <= 5) {
       cout << "hi" << i << endl;
     }
-    else
-    {
-      break;
-    }
+    // else
+    // {
+    //   break;
+    // }
     i = i + 1;
   }
 }
