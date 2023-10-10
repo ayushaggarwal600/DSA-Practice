@@ -31,10 +31,13 @@ int main()
     // int mid = start + (end - start) / 2;
     // cout << mid;
 
-    // cout<< (~5 + 1);
+    cout<< (~5);
 
-    int x = -5;
-    x = x>>1;
-    cout<<x<<endl;
+    // int x = -5;
+    // x = x>>1;
+    // cout<<x<<endl;
+
+    // cout<<(-9>>1);
+
     return 0;
 }
